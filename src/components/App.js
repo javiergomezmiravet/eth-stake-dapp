@@ -5,7 +5,7 @@ import DappToken from '../abis/DappToken.json'
 import TokenFarm from '../abis/TokenFarm.json'
 import Navbar from './Navbar'
 import Main from './Main'
-import './App.css'
+
 
 class App extends Component {
 
@@ -128,7 +128,7 @@ class App extends Component {
             <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '600px' }}>
               <div className="content mr-auto ml-auto">
                 <a
-                  href="http://www.dappuniversity.com/bootcamp"
+                  href="https://javier-gomez.netlify.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
